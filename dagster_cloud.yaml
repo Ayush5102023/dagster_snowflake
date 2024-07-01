@@ -1,0 +1,4 @@
+locations:
+- code_source:
+    package_name: quickstart_snowflake
+  location_name: dagster_snowflake
