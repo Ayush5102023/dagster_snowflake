@@ -16,7 +16,8 @@ setup(
         "textblob",
         "tweepy",
         "wordcloud",
-        "dagster-fivetran"
+        "dagster-fivetran",
+        "dagster-dbt",
     ],
     extras_require={"dev": ["dagster-webserver", "pytest"]},
 )
