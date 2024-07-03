@@ -1,0 +1,13 @@
+greenthumbindustries:
+  outputs:
+    dev:
+      account: ryognrm-yn29510
+      database: RAW
+      password: Centric@2024
+      role: ACCOUNTADMIN
+      schema: STAGE
+      threads: 1
+      type: snowflake
+      user: ayush2024
+      warehouse: COMPUTE_WH
+  target: dev
